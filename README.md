@@ -23,7 +23,7 @@ Executar comandos de busca com `grep`, construir um `Makefile` com múltiplos ta
 - Ter o repositório oficial do VVC clonado:
   ```bash
   git clone https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM.git
-▶️ Como executar
+## Como executar
 Navegue até a pasta do projeto:
 
 bash
@@ -35,8 +35,9 @@ make compile_calc
 make linux_tools
 make grep_cabac
 make clean
-👨‍💻 Autor
+
+## Autor
 Erike da Silveira Meira
 Engenharia de Computação – UNIPAMPA
-📧 erikedasilveirameira@gmail.com
+erikedasilveirameira@gmail.com
 
